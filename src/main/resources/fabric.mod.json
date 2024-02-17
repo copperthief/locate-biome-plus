@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "locatebiomeplus",
+  "version": "${version}",
+  "name": "LocateBiomePlus",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/locatebiomeplus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "shika.locatebiomeplus.LocateBiomePlus"
+    ]
+  },
+  "mixins": [
+    "locatebiomeplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.1",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

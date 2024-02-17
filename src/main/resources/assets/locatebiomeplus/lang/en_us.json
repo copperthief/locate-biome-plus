@@ -1,0 +1,6 @@
+{
+  "commands.locatebiomeplus.notFound": "Could not find a biome of type \"%s\" within %s meters",
+  "commands.locatebiomeplus.invalidNumberException": "I can see I'm dealing with unprecedented intellect here.",
+  "commands.locatebiomeplus.unfunnyNumberException": "Hilarious.",
+  "commands.locatebiomeplus.offensivelyNumberException": "You greatly disappoint me ..."
+}
